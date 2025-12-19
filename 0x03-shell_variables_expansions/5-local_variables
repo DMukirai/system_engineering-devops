@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script lists local variables, environment variables, and functions
+
+set

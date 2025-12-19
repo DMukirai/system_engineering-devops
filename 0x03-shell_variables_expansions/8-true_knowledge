@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script adds 128 to TRUEKNOWLEDGE
+
+echo $((TRUEKNOWLEDGE + 128))
